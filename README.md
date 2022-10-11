@@ -4,7 +4,7 @@
 
 > Wasatch Bicycles is an eCommerce dummy site built with Next.js, Strapi, Auth0 & Stripe.
 
-#### [View The Site](https://nv-marketing.com) - This app is live.
+#### [View The Site](https://wastach-bicycles.vercel.app/) - This app is live.
 
 <!-- Badge(s) Here -->
 
@@ -50,7 +50,7 @@ The user may browse the products, view a product page, add/remove items to the c
 
 ## How To Use
 
-View The Live Site - https://nv-marketing.com
+View The Live Site - https://wastach-bicycles.vercel.app/
 
 To process a payment use this test credit card information.
 
